@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Client_backup.unity
+  isLoaded: 1
+  isActive: 1
